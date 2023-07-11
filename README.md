@@ -1,2 +1,2 @@
 # Curriculo
-Atividade sugerida para treinar a contrução de um curriculo utilizando html
+Atividade sugerida para treinar a construção de um currígitculo utilizando html
